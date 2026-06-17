@@ -4,8 +4,11 @@ This is my personal portfolio website built using React JS. It showcases my skil
 
 ---
 
-## 🚀 Live Demo
-https://my-portfolio-rho-virid-91.vercel.app
+## Admin Login
+
+URL: /admin
+Username: admin
+Password: admin123
 
 ---
 
@@ -28,7 +31,7 @@ https://my-portfolio-rho-virid-91.vercel.app
 - HTML
 - CSS
 - EmailJS
-- Git & GitHu
+- Git & GitHub
 
 ----
 
