@@ -12,6 +12,8 @@ Password: admin123
 
 ---
 
+live demo: https://future-fs-01-sigma-orcin.vercel.app
+
 ## 📌 Features
 
 - Responsive design (Mobile + Desktop)
